@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Exo 2", sans-serif;
+    color: #333;
+}
+li {
+    list-style: none;
+}
+.p-location{
+    font-size: 12px;
+    color: white;
+}
